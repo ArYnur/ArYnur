@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ArYnur
-- 👀 I’m interested in Hal-hal yang menarik akan tetapi baik dan dapat bermanfaat bagi saya dan juga orang-orang yang  ada disekitar saya
-- 🌱 I’m currently learning bahasa Pemrograman dan juga memperdalam Ilmu Statistik saya
-- 💞️ I’m looking to collaborate on dalam banyak hal dan membuat sesuatu yang sederhana dan bisa bermanfaat untuk keseharian
-- 📫 How to reach me mungkin lain kali bisa saya beritahukan
+- 👀 I’m interested in Interesting things will be good and useful for me and also the people around me.
+- 🌱 I’m currently learning Programming language and also deepen my Statistical Science.
+- 💞️ I’m looking to collaborate on in many ways and make something simple and can be useful for everyday life.
+- 📫 How to reach me maybe next time I can tell.
 
 <!---
 ArYnur/ArYnur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
