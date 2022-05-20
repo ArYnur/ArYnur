@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArYnur
+- 👋 Hi, I’m @ArYanuar
 - 👀 I’m interested in Interesting things will be good and useful for me and also the people around me.
 - 🌱 I’m currently learning Programming language and also deepen my Statistical Science.
 - 💞️ I’m looking to collaborate on in many ways and make something simple and can be useful for everyday life.
